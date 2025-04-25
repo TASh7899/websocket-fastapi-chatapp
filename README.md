@@ -54,7 +54,3 @@ A real-time chat application built with FastAPI and WebSockets. This app allows 
 ## screenshot
 ![screenshot](src/Screenshot_20250425_190847.png)
 
-## Contributing
-
-Contributions are welcome! If you'd like to improve the app, please fork the repository, create a feature branch, and submit a pull request.
-
