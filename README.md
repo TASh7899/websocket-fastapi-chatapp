@@ -52,7 +52,7 @@ A real-time chat application built with FastAPI and WebSockets. This app allows 
 - You should be able see prompt to type your name
 
 ## screenshot
-[!screenshot](src/Screenshot_20250425_190847.png)
+[screenshot](src/Screenshot_20250425_190847.png)
 
 ## Contributing
 
